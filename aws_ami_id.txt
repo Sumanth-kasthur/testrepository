@@ -1,0 +1,3 @@
+ubuntu:ami-0989fb15ce71ba39e
+windows:ami-0c28bd8f1dd39d667
+sumanth-test-key
